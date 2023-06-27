@@ -12,7 +12,7 @@ function Consult() {
                     Build it with Albatech
                 </Text>
                 <Button mt={{ base: "6px", xl: "16px" }} fontWeight={"bold"} border={"1px"} bgColor={"#ffce07"} rounded="full" h={{ base: "40px", xl: "56px" }} w={"200px"}>
-                    Consultasion Now
+                    Consultation Now
                 </Button>
             </Box>
         </Box>
